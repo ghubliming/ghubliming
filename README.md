@@ -1,6 +1,8 @@
 ## 👨‍💼 My CV
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ghubliming&repo=Who_Am_I&theme=transparent)](https://github.com/ghubliming/Who_Am_I)
 
+---
+
 ![AI is typing...](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ![typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Loading+AI+brain...;Accessing+GitHub+API...;Error:+Too+smart+for+humans)
@@ -17,11 +19,6 @@
     <img alt="Get free BTC" src="https://img.shields.io/badge/GET-FREE%20BTC-ffb703?style=for-the-badge&logo=bitcoin&logoColor=black" />
   </a>
 </p>
-
-<div align="center">
-  <p><strong>Hurry — limited to the first 100 visitors!</strong></p>
-  <p><em>Or… not.</em> Surprise 🎵 — you just got rickrolled. If you wanted real BTC resources instead, check the links below.</p>
-</div>
 
 ---
 
