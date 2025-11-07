@@ -5,13 +5,14 @@
 
 ![AI is typing...](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-![typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Loading+AI+brain...;Accessing+GitHub+API...;Error:+Too+smart+for+humans)
+![typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Loading+AI+brain...;Accessing+GitHub+API...;Error:+Too+smart+for+humans) 
 
 **Visitors’ secrets collected:** ![Counter](https://komarev.com/ghpvc/?username=ghubliming&label=records&color=ff69b4)
 
 <p>
   You can get <strong>Free BTC</strong> for visiting my GitHub:
-<p align="left"> <a href="https://youtu.be/dQw4w9WgXcQ" title="Claim your BTC (totally legit)"> <img alt="Get free BTC for visiting my profile" src="https://img.shields.io/badge/GET-FREE%20BTC-ffb703?style=for-the-badge&logo=bitcoin&logoColor=black" /> </a> </p>
-
----
+  <a href="https://youtu.be/dQw4w9WgXcQ" title="Claim your BTC (totally legit)">
+    <img alt="Get free BTC for visiting my profile" src="https://img.shields.io/badge/GET-FREE%20BTC-ffb703?style=for-the-badge&logo=bitcoin&logoColor=black" />
+  </a>
+</p>
 
