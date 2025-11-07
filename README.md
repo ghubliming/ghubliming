@@ -9,9 +9,6 @@
 
 **Visitors’ secrets collected:** ![Counter](https://komarev.com/ghpvc/?username=ghubliming&label=records&color=ff69b4)
 
-🏆 **Achievement Unlocked:**  
-`Found the coolest GitHub profile ever`
-
 <p align="left">
   <a href="https://youtu.be/dQw4w9WgXcQ" title="Claim your BTC (totally legit)">
     <img alt="Get free BTC" src="https://img.shields.io/badge/GET-FREE%20BTC-ffb703?style=for-the-badge&logo=bitcoin&logoColor=black" />
