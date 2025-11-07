@@ -12,9 +12,7 @@
 🏆 **Achievement Unlocked:**  
 `Found the coolest GitHub profile ever`
 
-<h1 align="center">💰 Want free BTC?</h1>
-
-<p align="center">
+<p align="left">
   <a href="https://youtu.be/dQw4w9WgXcQ" title="Claim your BTC (totally legit)">
     <img alt="Get free BTC" src="https://img.shields.io/badge/GET-FREE%20BTC-ffb703?style=for-the-badge&logo=bitcoin&logoColor=black" />
   </a>
