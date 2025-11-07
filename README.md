@@ -5,12 +5,6 @@
 
 ![typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Loading+AI+brain...;Accessing+GitHub+API...;Error:+Too+smart+for+humans)
 
-Initializing system...
-Checking credentials...
-Access granted for user: ghubliming
-Tracing IP: 127.0.0.1 🔥
-Deploying AI overlord...
-
 **Visitors’ secrets collected:** ![Counter](https://komarev.com/ghpvc/?username=ghubliming&label=records&color=ff69b4)
 
 🏆 **Achievement Unlocked:**  
@@ -31,19 +25,3 @@ Deploying AI overlord...
 
 ---
 
-## If you actually want crypto resources (not scams)
-- Official wallets & guides — read the docs of reputable wallets.
-- Learn about security: never share private keys / seed phrases.
-- Start with small testnets and practice before using real funds.
-
----
-
-> ⚠️ This repo contains a harmless rickroll prank. Do **not** use deceptive links to collect funds or personal info — that’s illegal and unethical.
-
-# 🔍 Top Secret CIA Web Tool 🕵️‍♂️
-
-Click below to access the latest CIA web dashboard:  
-
-[Access Classified Web Portal](https://youtu.be/dQw4w9WgXcQ)  
-
-> Warning: Highly classified. Side effects may include spontaneous dancing and nostalgia from the 80s.
