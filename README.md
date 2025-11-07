@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://youtu.be/dQw4w9WgXcQ" title="Claim your BTC (totally legit)">
-    <img alt="Get free BTC" src="https://img.shields.io/badge/GET-FREE%20BTC-ffb703?style=for-the-badge&logo=bitcoin&logoColor=black" />
+    <img alt="Get free BTC for visiting my profile" src="https://img.shields.io/badge/GET-FREE%20BTC-ffb703?style=for-the-badge&logo=bitcoin&logoColor=black" />
   </a>
 </p>
 
