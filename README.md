@@ -10,9 +10,9 @@
 **Visitors’ secrets collected:** ![Counter](https://komarev.com/ghpvc/?username=ghubliming&label=records&color=ff69b4)
 
 <p>
-  You can get <strong>Free BTC</strong> for visiting my GitHub:
   <a href="https://youtu.be/dQw4w9WgXcQ" title="Claim your BTC (totally legit)">
     <img alt="Get free BTC for visiting my profile" src="https://img.shields.io/badge/GET-FREE%20BTC-ffb703?style=for-the-badge&logo=bitcoin&logoColor=black" />
   </a>
 </p>
 
+[![Snowflake Proxy](https://img.shields.io/badge/Volunteer-Snowflake_Proxy-7D4698?style=for-the-badge&logo=torproject&logoColor=white)](https://snowflake.torproject.org/embed.html)
