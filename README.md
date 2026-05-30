@@ -1,4 +1,4 @@
-## 👨‍💼 My CV
+## 👨‍💼 Hi!
 [View My CV Repository](https://github.com/ghubliming/Who_Am_I)
 
 ---
