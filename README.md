@@ -1,5 +1,5 @@
 ## 👨‍💼 Hi!
-[View My CV Repository](https://github.com/ghubliming/Who_Am_I)
+[View My CV Repository](https://ghubliming.github.io/Who_Am_I/)
 
 ---
 
